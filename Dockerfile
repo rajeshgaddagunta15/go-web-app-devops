@@ -36,3 +36,5 @@ EXPOSE 8080
 
 # Command to run the application
 CMD ["./main"]
+
+# this comment is to trigger the gitops pipeline
